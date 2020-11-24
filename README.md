@@ -2,7 +2,7 @@
 
 ## Deployed version of ISS tracker:
 
-`https://mushy-tin.surge.sh/`
+https://mushy-tin.surge.sh/
 
 ## Install and run
 
